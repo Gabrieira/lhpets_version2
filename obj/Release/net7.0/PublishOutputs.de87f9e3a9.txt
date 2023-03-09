@@ -1,0 +1,7 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\Projeto_MVC_LHPets\LHPet\bin\Release\net7.0\publish\LHPet.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\Projeto_MVC_LHPets\LHPet\bin\Release\net7.0\publish\appsettings.Development.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Projeto_MVC_LHPets\LHPet\bin\Release\net7.0\publish\appsettings.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Projeto_MVC_LHPets\LHPet\bin\Release\net7.0\publish\LHPet.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Projeto_MVC_LHPets\LHPet\bin\Release\net7.0\publish\LHPet.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Projeto_MVC_LHPets\LHPet\bin\Release\net7.0\publish\LHPet.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Projeto_MVC_LHPets\LHPet\bin\Release\net7.0\publish\LHPet.pdb
